@@ -35,4 +35,7 @@ Last : 2147483639
 Total elapsed time: 19.6378 s
 ```
 
+## Result
+<img width="334" alt="螢幕擷取畫面_20230220_205553" src="https://user-images.githubusercontent.com/78306170/220115374-75387693-0066-439b-b1ac-1560ffe41568.png">
+
 Copyright 2022 Man Yuet Ki Kimmy
